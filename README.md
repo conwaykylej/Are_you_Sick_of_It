@@ -93,7 +93,7 @@ Given the amount of variables available in our dataset, we each narrowed our inv
 
 # :question: What Does It All Mean :grey_question:
 
-Well, it means that we can't definiteively say much. We worked off of theories that happiness would be affected by wealth like a country's GDP or spending habits regarding Healthcare. Though in some instances there are weak correlations such as the total Healthcare Expenditure percentages and Life Expectancy, the fact is, we can't make any statements concretely pointing to any cause. 
+Well, it means that we can't definitively say much. We worked off of theories that happiness would be affected by wealth like a country's GDP or spending habits regarding Healthcare. Though in some instances there are weak correlations such as the total Healthcare Expenditure percentages and Life Expectancy, the fact is, we can't make any statements concretely pointing to any cause. 
 
 **Trends** that we did have some evidence for is the effect Life Expectancy had on the Happiness Score. Living longer is a decent reason to be happier overall. And that seems to bare out in the data. 
 
